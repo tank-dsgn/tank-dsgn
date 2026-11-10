@@ -1,14 +1,14 @@
 # Ivan Grigorenko
 
 **UX/UI designer who builds the design system and then ships the interface in code.**
-Designing since 2018, full-time on B2B products since 2024: design systems, tokens,
+Designing since 2023, full-time on B2B products since 2024: design systems, tokens,
 data-heavy interfaces, design QA, prototypes that run.
 
 [ivangrigorenko.com](https://ivangrigorenko.com) · [LinkedIn](https://www.linkedin.com/in/ivan-grigorenko) · ivan.grigorenko.dsgn@gmail.com · Minsk
 
-**Now:** B2B product design — design systems and data-heavy interfaces. Alongside that,
-keeping VV Design System and its Figma file in step with each other: the code is the
-source of the values, and the Figma file is rebuilt from it.
+**Now:** B2B product design — design systems and data-heavy interfaces. Most of the work
+runs through AI tooling: Claude Code against the repositories, Figma MCP, prototypes
+generated into Storybook. The repositories below are built that way.
 
 ## Projects
 
