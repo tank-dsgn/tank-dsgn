@@ -1,6 +1,6 @@
 # Ivan Grigorenko
 
-**UX/UI designer who works inside the repository: design systems, B2B interfaces, and
+**UX/UI designer who works inside the repository: design systems, interfaces, and
 prototypes built in code with AI tooling.**
 Full-time since 2024 on B2B SaaS and consumer products, web and iOS. Building and
 maintaining the design system the products run on, from the first screens to handoff
