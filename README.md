@@ -2,13 +2,15 @@
 
 **UX/UI designer who works inside the repository: design systems, B2B interfaces, and
 prototypes built in code with AI tooling.**
-Full-time on B2B products since 2024. Tokens, components, states, design QA.
+Full-time since 2024 on B2B SaaS and consumer products, web and iOS. Building and
+maintaining the design system the products run on, from the first screens to handoff
+and design QA.
 
 [ivangrigorenko.com](https://ivangrigorenko.com) · [LinkedIn](https://www.linkedin.com/in/ivan-grigorenko) · ivan.grigorenko.dsgn@gmail.com · Minsk
 
-**Now:** B2B product design — design systems and data-heavy interfaces. Most of the work
-runs through AI tooling: Claude Code against the repositories, Figma MCP, prototypes
-generated into Storybook. The repositories below are built that way.
+**Now:** most of the work runs through AI tooling — Claude Code against the
+repositories, Figma MCP, prototypes generated into Storybook. The repositories below are
+built that way.
 
 ## Projects
 
