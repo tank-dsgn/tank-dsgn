@@ -1,8 +1,9 @@
 # Ivan Grigorenko
 
-**UX/UI designer who builds the design system and then ships the interface in code.**
-Designing since 2023, full-time on B2B products since 2024: design systems, tokens,
-data-heavy interfaces, design QA, prototypes that run.
+**UX/UI designer who works inside the repository: design systems, B2B interfaces, and
+prototypes built in code with AI tooling.**
+Designing since 2023, full-time on B2B products since 2024. Tokens, components, states,
+design QA.
 
 [ivangrigorenko.com](https://ivangrigorenko.com) · [LinkedIn](https://www.linkedin.com/in/ivan-grigorenko) · ivan.grigorenko.dsgn@gmail.com · Minsk
 
